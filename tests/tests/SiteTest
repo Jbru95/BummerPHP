@@ -1,0 +1,25 @@
+<?php
+
+require __DIR__ . "/../../vendor/autoload.php";
+
+class SiteTest extends \PHPUnit_Framework_TestCase
+{
+    public function testGettersSetters() {
+        $site = new \Bummer\Site();
+        $site->setEmail("test@test.com");
+        $this->assertEquals("test@test.com", $site->getEmail());
+        $site->setRoot("/root");
+        $this->assertEquals("/root", $site->getRoot());
+        $site->dbConfigure("host", "user", "pass","pre");
+        $this->assertEquals("pre", $site->getTablePrefix());
+    }
+
+    public function test_localize() {
+        $site = new Bummer\Site();
+        $localize = require 'localize.inc.php';
+        if(is_callable($localize)) {
+            $localize($site);
+        }
+        $this->assertEquals('bummer_test_', $site->getTablePrefix());
+    }
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataset>
+    <bummer_test_user id="1" name="Charles Owen" email="cbowen@cse.msu.edu" salt="0t6UA$Qnkfryfz#f"
+                      password="889eebfdd574682a79bfabd1f23858c658bbe4c53814727035a01b89ace48cff"/>
+    <bummer_test_user id="2" name="Liam Bohl" email="bohllia1@msu.edu" salt="NAaMwre2!0IOSu3Y"
+                      password="50d0d5e41c6ae76ac3cc9639d1c2e34bf8738761d800869b5e698781c09e8d52"/>
+    <bummer_test_user id="27" name="Harold" email="harold@yahoo.com" salt="IQ*^qqMb^+JWPAHn"
+                      password="58d6cc554bf30e95151dceb92905fd6f63652b6671b25d6431dfb6e68564057e"/>
+    <bummer_test_user id="3" name="Sarah" email="Sarah@hotmail.com" salt="zRT*@kHSWmZt`$PO"
+                      password="086ae8ea9627899514fe1c79ebc25b2b96b227d04e3e9a1600ad701ccc460ac0"/>
+    <bummer_test_user id="4" name="Alex" email="user@mail.com" salt="b*z$O~xtGXoBwQAn"
+                      password="cc2641f117908e992fe0fe83d2bf9023988ed774ddb7e8fc34cf0fa4621643ad"/>
+</dataset>

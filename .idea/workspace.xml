@@ -1,0 +1,1196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="020b134c-aa56-4e3d-9982-cefa35306fba" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="GameController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/GameController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="454">
+              <caret line="31" column="28" lean-forward="false" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+              <folding>
+                <marker date="1523589225194" expanded="true" signature="732:790" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Game.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/Game.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="115" column="28" lean-forward="true" selection-start-line="115" selection-start-column="28" selection-end-line="115" selection-end-column="28" />
+              <folding>
+                <element signature="e#7#89#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InstructionsView.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/InstructionsView.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+              <folding>
+                <marker date="1523578654619" expanded="true" signature="274:475" ph="..." />
+                <marker date="1523578654619" expanded="true" signature="307:468" ph="..." />
+                <marker date="1523578654619" expanded="true" signature="524:5622" ph="..." />
+                <marker date="1523578654619" expanded="true" signature="551:1183" ph="..." />
+                <marker date="1523578654619" expanded="true" signature="1191:1438" ph="..." />
+                <marker date="1523578654619" expanded="true" signature="1558:1816" ph="..." />
+                <marker date="1523578654619" expanded="true" signature="1824:2450" ph="..." />
+                <marker date="1523578654619" expanded="true" signature="2458:2603" ph="..." />
+                <marker date="1523578654619" expanded="true" signature="2611:2756" ph="..." />
+                <marker date="1523578654619" expanded="true" signature="2764:2925" ph="..." />
+                <marker date="1523578654619" expanded="true" signature="2952:3187" ph="..." />
+                <marker date="1523578654619" expanded="true" signature="3263:5614" ph="..." />
+                <marker date="1523578654619" expanded="true" signature="3276:3344" ph="..." />
+                <marker date="1523578654619" expanded="true" signature="3357:3573" ph="..." />
+                <marker date="1523578654619" expanded="true" signature="3438:3559" ph="..." />
+                <marker date="1523578654619" expanded="true" signature="3586:3803" ph="..." />
+                <marker date="1523578654619" expanded="true" signature="3667:3789" ph="..." />
+                <marker date="1523578654619" expanded="true" signature="3816:3966" ph="..." />
+                <marker date="1523578654619" expanded="true" signature="3979:4130" ph="..." />
+                <marker date="1523578654619" expanded="true" signature="4143:4292" ph="..." />
+                <marker date="1523578654619" expanded="true" signature="4305:4455" ph="..." />
+                <marker date="1523578654619" expanded="true" signature="4468:4618" ph="..." />
+                <marker date="1523578654619" expanded="true" signature="4631:4804" ph="..." />
+                <marker date="1523578654619" expanded="true" signature="4817:4994" ph="..." />
+                <marker date="1523578654619" expanded="true" signature="5007:5160" ph="..." />
+                <marker date="1523578654619" expanded="true" signature="5173:5455" ph="..." />
+                <marker date="1523578654619" expanded="true" signature="5264:5441" ph="..." />
+                <marker date="1523578654619" expanded="true" signature="5468:5601" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameView.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/GameView.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="15" column="23" lean-forward="false" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Card.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/Card.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6160">
+              <caret line="313" column="49" lean-forward="false" selection-start-line="313" selection-start-column="49" selection-end-line="313" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Minion.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/Minion.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1220">
+              <caret line="66" column="24" lean-forward="false" selection-start-line="66" selection-start-column="24" selection-end-line="66" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>reset</find>
+      <find>name</find>
+      <find>card</find>
+      <find>playCard</find>
+      <find>bummer</find>
+      <find>play</find>
+      <find>welcome.php</find>
+      <find>id</find>
+      <find>$homebase</find>
+      <find>$i</find>
+      <find>homebase</find>
+      <find>new Minion</find>
+      <find>var</find>
+      <find>getJsonDeck</find>
+      <find>Users</find>
+      <find>session</find>
+      <find>new Pl</find>
+      <find>execute</find>
+      <find>nextPlayer</find>
+      <find>user</find>
+      <find>_log</find>
+      <find>g</find>
+      <find>game</find>
+      <find>fetch_assoc</find>
+      <find>const</find>
+      <find>log</find>
+      <find>php</find>
+      <find>reload</find>
+      <find>remove</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lib/Minion.php" />
+        <option value="$PROJECT_DIR$/lib/Card.php" />
+        <option value="$PROJECT_DIR$/lib/GameView.php" />
+        <option value="$PROJECT_DIR$/project1.css" />
+        <option value="$PROJECT_DIR$/new-user.php" />
+        <option value="$PROJECT_DIR$/lib/LoginView.php" />
+        <option value="$PROJECT_DIR$/lib/GameState.php" />
+        <option value="$PROJECT_DIR$/lib/Deck.php" />
+        <option value="$PROJECT_DIR$/lib/NewUserView.php" />
+        <option value="$PROJECT_DIR$/lib/Site.php" />
+        <option value="$PROJECT_DIR$/lib/site.inc.php" />
+        <option value="$PROJECT_DIR$/lib/Table.php" />
+        <option value="$PROJECT_DIR$/lib/NewUserController.php" />
+        <option value="$PROJECT_DIR$/lib/PasswordValidateController.php" />
+        <option value="$PROJECT_DIR$/lib/Validators.php" />
+        <option value="$PROJECT_DIR$/post/login.php" />
+        <option value="$PROJECT_DIR$/post/logout.php" />
+        <option value="$PROJECT_DIR$/post/new-user.php" />
+        <option value="$PROJECT_DIR$/game-post.php" />
+        <option value="$PROJECT_DIR$/instructions.php" />
+        <option value="$PROJECT_DIR$/password-validate.php" />
+        <option value="$PROJECT_DIR$/tests/tests/HomeControllerTest.php" />
+        <option value="$PROJECT_DIR$/tests/tests/localize.inc.php" />
+        <option value="$PROJECT_DIR$/tests/tests/LoginControllerTest.php" />
+        <option value="$PROJECT_DIR$/tests/tests/ValidatorsTest.php" />
+        <option value="$PROJECT_DIR$/lib/PasswordValidateView.php" />
+        <option value="$PROJECT_DIR$/post/password-validate.php" />
+        <option value="$PROJECT_DIR$/tests/tests/GamesTest.php" />
+        <option value="$PROJECT_DIR$/lib/localize.inc.php" />
+        <option value="$PROJECT_DIR$/post/lobby.php" />
+        <option value="$PROJECT_DIR$/Push.php" />
+        <option value="$PROJECT_DIR$/waiting.php" />
+        <option value="$PROJECT_DIR$/lib/Users.php" />
+        <option value="$PROJECT_DIR$/lib/Player.php" />
+        <option value="$PROJECT_DIR$/Reload.php" />
+        <option value="$PROJECT_DIR$/lib/ChromePhp.php" />
+        <option value="$PROJECT_DIR$/lib/LobbyController.php" />
+        <option value="$PROJECT_DIR$/lobby.php" />
+        <option value="$PROJECT_DIR$/tests/tests/GameTest.php" />
+        <option value="$PROJECT_DIR$/lib/Games.php" />
+        <option value="$PROJECT_DIR$/lib/LogoutController.php" />
+        <option value="$PROJECT_DIR$/game.php" />
+        <option value="$PROJECT_DIR$/lib/LoginController.php" />
+        <option value="$PROJECT_DIR$/lib/HomeController.php" />
+        <option value="$PROJECT_DIR$/lib/GameController.php" />
+        <option value="$PROJECT_DIR$/lib/HomeView.php" />
+        <option value="$PROJECT_DIR$/lib/LobbyView.php" />
+        <option value="$PROJECT_DIR$/lib/Game.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/lib/Reload.php" />
+        <option value="$PROJECT_DIR$/lib/InstructionsView.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="960" />
+    <option name="width" value="960" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="project2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project2" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="project2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project2" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lib" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="project2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project2" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lib" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="project2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project2" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="post" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="project2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project2" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="tests" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="project2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project2" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="tests" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="tests" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jayson\Desktop\CSE\477\Project1\tests\tests" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jayson\Desktop\CSE\477\project2\lib" />
+      <recent name="C:\Users\Jayson\Desktop\CSE\477\project2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHP Script.Game.php">
+    <configuration name="name_form.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Project1/name_form.php" />
+    <configuration name="Game.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/lib/Game.php" />
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.name_form.php" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Script.Game.php" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.Game.php" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.name_form.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="020b134c-aa56-4e3d-9982-cefa35306fba" name="Default" comment="" />
+      <created>1518567179167</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1518567179167</updated>
+      <workItem from="1518567180449" duration="769000" />
+      <workItem from="1518735061987" duration="3470000" />
+      <workItem from="1518817218132" duration="6712000" />
+      <workItem from="1519063919547" duration="9056000" />
+      <workItem from="1519087164021" duration="6003000" />
+      <workItem from="1519263393373" duration="2254000" />
+      <workItem from="1519275050896" duration="6171000" />
+      <workItem from="1519422555002" duration="7492000" />
+      <workItem from="1519435443029" duration="16256000" />
+      <workItem from="1519684946624" duration="35948000" />
+      <workItem from="1520383253898" duration="8244000" />
+      <workItem from="1520630255832" duration="2351000" />
+      <workItem from="1520883277645" duration="10474000" />
+      <workItem from="1521054727280" duration="400000" />
+      <workItem from="1521055141648" duration="1481000" />
+      <workItem from="1522798536508" duration="3513000" />
+      <workItem from="1522973836260" duration="4011000" />
+      <workItem from="1523217119160" duration="16166000" />
+      <workItem from="1523238980059" duration="1907000" />
+      <workItem from="1523241223749" duration="5723000" />
+      <workItem from="1523318471708" duration="28544000" />
+      <workItem from="1523500792092" duration="31630000" />
+      <workItem from="1523589048102" duration="391000" />
+    </task>
+    <task id="LOCAL-00001" summary="committing directories lib(for classes) and tests(for testing files)">
+      <created>1518735752414</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1518735752414</updated>
+    </task>
+    <task id="LOCAL-00002" summary="html for name form, and php class Deck">
+      <created>1518737684521</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1518737684521</updated>
+    </task>
+    <task id="LOCAL-00003" summary="php class Deck">
+      <created>1518737905097</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1518737905097</updated>
+    </task>
+    <task id="LOCAL-00004" summary="DeckTest">
+      <created>1518737931986</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1518737931986</updated>
+    </task>
+    <task id="LOCAL-00005" summary="updated w/ css file">
+      <created>1518819357654</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1518819357654</updated>
+    </task>
+    <task id="LOCAL-00006" summary="updated w/ css file/ images">
+      <created>1518819852640</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1518819852640</updated>
+    </task>
+    <task id="LOCAL-00007" summary="delete name_form.php, as it's in welcome.php">
+      <created>1518820197917</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1518820197917</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Finished Deck Class and DeckTest">
+      <created>1519073085617</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1519073085617</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add deck comment">
+      <created>1519087883720</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1519087883720</updated>
+    </task>
+    <task id="LOCAL-00010" summary="constructed Deck in game.php">
+      <created>1519088982530</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1519088982530</updated>
+    </task>
+    <task id="LOCAL-00011" summary="added welcomeController, and changed Game, GameView and Post to reflect data taken from form in welcome.php">
+      <created>1519285918849</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1519285918849</updated>
+    </task>
+    <task id="LOCAL-00012" summary="making grid">
+      <created>1519427717756</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1519427717756</updated>
+    </task>
+    <task id="LOCAL-00013" summary="made workable grid with working buttons and draw card button, minions should display properly on the board when added">
+      <created>1519505706851</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1519505706853</updated>
+    </task>
+    <task id="LOCAL-00014" summary="minions are diplaying in their base in the right spot">
+      <created>1519783082823</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1519783082823</updated>
+    </task>
+    <task id="LOCAL-00015" summary="displayed card images and player name and minion image under card">
+      <created>1519875166530</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1519875166530</updated>
+    </task>
+    <task id="LOCAL-00016" summary="removed redundant code">
+      <created>1519880522407</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1519880522407</updated>
+    </task>
+    <task id="LOCAL-00017" summary="updated game to draw and diplay cards, end turns and switch players when turns are over">
+      <created>1519939224055</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1519939224055</updated>
+    </task>
+    <task id="LOCAL-00018" summary="minions dont display for non players">
+      <created>1519944313149</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1519944313149</updated>
+    </task>
+    <task id="LOCAL-00019" summary="start game w/ less players">
+      <created>1519947282538</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1519947282538</updated>
+    </task>
+    <task id="LOCAL-00020" summary="reset on one player">
+      <created>1519947910119</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1519947910119</updated>
+    </task>
+    <task id="LOCAL-00021" summary="unsets game on newgame button">
+      <created>1519950899996</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1519950899996</updated>
+    </task>
+    <task id="LOCAL-00022" summary="unsets game on newgame button">
+      <created>1519951702030</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1519951702030</updated>
+    </task>
+    <task id="LOCAL-00023" summary="got rid of teamname">
+      <created>1519952523862</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1519952523862</updated>
+    </task>
+    <task id="LOCAL-00024" summary="slide works">
+      <created>1520392035421</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1520392035421</updated>
+    </task>
+    <task id="LOCAL-00025" summary="finishing touches, bummer func and end page formatting">
+      <created>1520898778139</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1520898778139</updated>
+    </task>
+    <task id="LOCAL-00026" summary="new-user.php, post page, controller and View">
+      <created>1522801218675</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1522801218675</updated>
+    </task>
+    <task id="LOCAL-00027" summary="starting on json and add enw user link">
+      <created>1523047862082</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1523047862082</updated>
+    </task>
+    <task id="LOCAL-00028" summary="finished json functions">
+      <created>1523219085816</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1523219085816</updated>
+    </task>
+    <task id="LOCAL-00029" summary="finished json functions">
+      <created>1523233445187</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1523233445187</updated>
+    </task>
+    <task id="LOCAL-00030" summary="finished json">
+      <created>1523233602936</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1523233602936</updated>
+    </task>
+    <task id="LOCAL-00031" summary="lobby.php">
+      <created>1523233757052</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1523233757052</updated>
+    </task>
+    <task id="LOCAL-00032" summary="minor fixes">
+      <created>1523240757776</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1523240757776</updated>
+    </task>
+    <task id="LOCAL-00033" summary="changed all necessary instance of game to site and created Site Class">
+      <created>1523243872782</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1523243872782</updated>
+    </task>
+    <task id="LOCAL-00034" summary="fixed password validate, it now works and new users can be created">
+      <created>1523245640321</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1523245640321</updated>
+    </task>
+    <task id="LOCAL-00035" summary="working on lobby controller and Games Test">
+      <created>1523401461229</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1523401461229</updated>
+    </task>
+    <task id="LOCAL-00036" summary="lobby controller">
+      <created>1523404065276</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1523404065276</updated>
+    </task>
+    <task id="LOCAL-00037" summary="lobby controller">
+      <created>1523409556808</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1523409556808</updated>
+    </task>
+    <task id="LOCAL-00038" summary="decoded json in game">
+      <created>1523411412830</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1523411412830</updated>
+    </task>
+    <task id="LOCAL-00039" summary="added reload to lobby">
+      <created>1523411695172</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1523411695172</updated>
+    </task>
+    <task id="LOCAL-00040" summary="added complete reload and redirect to lobby">
+      <created>1523415795486</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1523415795486</updated>
+    </task>
+    <task id="LOCAL-00041" summary="added complete reload and redirect to index.php">
+      <created>1523416301532</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1523416301532</updated>
+    </task>
+    <task id="LOCAL-00042" summary="added room number to lobby view">
+      <created>1523417042901</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1523417042901</updated>
+    </task>
+    <task id="LOCAL-00043" summary="added room number to lobby view">
+      <created>1523418108063</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1523418108063</updated>
+    </task>
+    <task id="LOCAL-00044" summary="work on reloads">
+      <created>1523501069253</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1523501069253</updated>
+    </task>
+    <task id="LOCAL-00045" summary="when you start a game, brings all current players into the game">
+      <created>1523502840127</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1523502840127</updated>
+    </task>
+    <task id="LOCAL-00046" summary="reloading class restructure">
+      <created>1523561168051</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1523561168051</updated>
+    </task>
+    <task id="LOCAL-00047" summary="working on game">
+      <created>1523565404076</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1523565404076</updated>
+    </task>
+    <task id="LOCAL-00048" summary="game finished, except for winning, still same reload issues as yesterday, also websockets are not working, which is probably just something that the system admin messed up">
+      <created>1523574593968</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1523574593968</updated>
+    </task>
+    <task id="LOCAL-00049" summary="added game link to instructions page">
+      <created>1523578686689</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1523578686689</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="208966000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="-4" width="1928" height="1056" extended-state="7" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43191963" sideWeight="0.53333336" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10840708" sideWeight="0.4861963" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43473452" sideWeight="0.46666667" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" x="209" y="307" width="663" height="553" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15555556" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15471092" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964602" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.063053094" sideWeight="0.4966611" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="unsets game on newgame button" />
+    <MESSAGE value="got rid of teamname" />
+    <MESSAGE value="slide works" />
+    <MESSAGE value="finishing touches, bummer func and end page formatting" />
+    <MESSAGE value="new-user.php, post page, controller and View" />
+    <MESSAGE value="starting on json and add enw user link" />
+    <MESSAGE value="finished json functions" />
+    <MESSAGE value="finished json" />
+    <MESSAGE value="lobby.php" />
+    <MESSAGE value="minor fixes" />
+    <MESSAGE value="changed all necessary instance of game to site and created Site Class" />
+    <MESSAGE value="fixed password validate, it now works and new users can be created" />
+    <MESSAGE value="working on lobby controller and Games Test" />
+    <MESSAGE value="lobby controller" />
+    <MESSAGE value="decoded json in game" />
+    <MESSAGE value="added reload to lobby" />
+    <MESSAGE value="added complete reload and redirect to lobby" />
+    <MESSAGE value="added complete reload and redirect to index.php" />
+    <MESSAGE value="added room number to lobby view" />
+    <MESSAGE value="work on reloads" />
+    <MESSAGE value="when you start a game, brings all current players into the game" />
+    <MESSAGE value="reloading class restructure" />
+    <MESSAGE value="working on game" />
+    <MESSAGE value="game finished, except for winning, still same reload issues as yesterday, also websockets are not working, which is probably just something that the system admin messed up" />
+    <MESSAGE value="added game link to instructions page" />
+    <option name="LAST_COMMIT_MESSAGE" value="added game link to instructions page" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tests/tests/localize.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/tests/LoginControllerTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/tests/MinionTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3286">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/tests/PlayerTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-246">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/testrunner.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/tests/ValidatorsTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="64" column="0" lean-forward="true" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/PasswordValidateController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="34" column="24" lean-forward="false" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/password-validate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/post/password-validate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="34" lean-forward="false" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/PasswordValidateView.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="66" column="12" lean-forward="false" selection-start-line="66" selection-start-column="12" selection-end-line="66" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Validators.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="68" column="30" lean-forward="true" selection-start-line="68" selection-start-column="30" selection-end-line="68" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Site.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="25" column="24" lean-forward="false" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/tests/db/user.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="44" lean-forward="false" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/tests/db/game.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/tests/GamesTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="614">
+          <caret line="79" column="24" lean-forward="true" selection-start-line="79" selection-start-column="24" selection-end-line="79" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/site.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/css/bummer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/localize.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Push.php" />
+    <entry file="file://$PROJECT_DIR$/post/lobby.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="50" lean-forward="false" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/waiting.php" />
+    <entry file="file://$PROJECT_DIR$/game-post.php" />
+    <entry file="file://$PROJECT_DIR$/tests/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-224">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Email.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ChromePhp.php" />
+    <entry file="file://$PROJECT_DIR$/lib/Deck.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/tests/GameTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="670">
+          <caret line="109" column="0" lean-forward="true" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/LogoutController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="21" column="56" lean-forward="false" selection-start-line="21" selection-start-column="56" selection-end-line="21" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Games.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="285" column="20" lean-forward="true" selection-start-line="285" selection-start-column="20" selection-end-line="285" selection-end-column="20" />
+          <folding>
+            <marker date="1523568154686" expanded="true" signature="529:577" ph="insert into ${$this-&gt;tableName}... " />
+            <marker date="1523568154686" expanded="true" signature="1226:1306" ph="SELECT playe... ${$this-&gt;tableName}" />
+            <marker date="1523568154686" expanded="true" signature="1993:2041" ph="UPDATE ${$this-&gt;tableName}... " />
+            <marker date="1523568154686" expanded="true" signature="2120:2168" ph="UPDATE ${$this-&gt;tableName}... " />
+            <marker date="1523568154686" expanded="true" signature="2247:2295" ph="UPDATE ${$this-&gt;tableName}... " />
+            <marker date="1523568154686" expanded="true" signature="2374:2422" ph="UPDATE ${$this-&gt;tableName}... " />
+            <marker date="1523568154686" expanded="true" signature="3127:3449" ph="SELECT p1.na... ${$this-&gt;tableName}" />
+            <marker date="1523568154686" expanded="true" signature="3927:3973" ph="SELECT playe... " />
+            <marker date="1523568154686" expanded="true" signature="3927:3974" ph="SELECT playe... ${$this}" />
+            <marker date="1523568154686" expanded="true" signature="3927:3981" ph="SELECT playe... ${$this}" />
+            <marker date="1523568154686" expanded="true" signature="3927:4003" ph="SELECT playe... ${$this-&gt;tableName}" />
+            <marker date="1523568154686" expanded="true" signature="4781:4836" ph="UPDATE ${$this-&gt;tableName}... " />
+            <marker date="1523568154686" expanded="true" signature="4927:4982" ph="UPDATE ${$this-&gt;tableName}... " />
+            <marker date="1523568154686" expanded="true" signature="5072:5127" ph="UPDATE ${$this-&gt;tableName}... " />
+            <marker date="1523568154686" expanded="true" signature="5217:5272" ph="UPDATE ${$this-&gt;tableName}... " />
+            <marker date="1523568154686" expanded="true" signature="6245:6290" ph="UPDATE ${$this-&gt;tableName}... " />
+            <marker date="1523568154686" expanded="true" signature="6677:6723" ph="SELECT bumme... ${$this-&gt;tableName}" />
+            <marker date="1523568154686" expanded="true" signature="7097:7136" ph="DELETE FROM ${$this-&gt;tableName}... " />
+            <marker date="1523568154686" expanded="true" signature="7338:7394" ph="update initialized... " />
+            <marker date="1523568154686" expanded="true" signature="7600:7624" ph="select initi... ${$this-&gt;tableName}" />
+            <marker date="1523568154686" expanded="true" signature="7600:7653" ph="select initi... ${$this-&gt;tableName}" />
+            <marker date="1523568154686" expanded="true" signature="8047:8054" ph="select * fro... ${$this-&gt;tableName}" />
+            <marker date="1523568154686" expanded="true" signature="8047:8062" ph="select id fr... ${$this-&gt;tableName}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Users.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="35" column="50" lean-forward="false" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/View.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1523395804411" expanded="true" signature="743:789" ph="..." />
+            <marker date="1523395804411" expanded="true" signature="748:789" ph="..." />
+            <marker date="1523395804411" expanded="true" signature="1304:1348" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/LoginController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-23">
+          <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="42" column="24" lean-forward="false" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/post/game.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="23" column="27" lean-forward="false" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/LoginView.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lobby.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/HomeView.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="108" column="23" lean-forward="true" selection-start-line="82" selection-start-column="4" selection-end-line="108" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/LobbyView.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1440">
+          <caret line="77" column="0" lean-forward="true" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Reload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="24" column="16" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/LobbyController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="39" column="22" lean-forward="false" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Player.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="67" column="26" lean-forward="false" selection-start-line="67" selection-start-column="26" selection-end-line="67" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/GameView.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="23" lean-forward="false" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Card.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6160">
+          <caret line="313" column="49" lean-forward="false" selection-start-line="313" selection-start-column="49" selection-end-line="313" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Minion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1220">
+          <caret line="66" column="24" lean-forward="false" selection-start-line="66" selection-start-column="24" selection-end-line="66" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/InstructionsView.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+          <folding>
+            <marker date="1523578654619" expanded="true" signature="274:475" ph="..." />
+            <marker date="1523578654619" expanded="true" signature="307:468" ph="..." />
+            <marker date="1523578654619" expanded="true" signature="524:5622" ph="..." />
+            <marker date="1523578654619" expanded="true" signature="551:1183" ph="..." />
+            <marker date="1523578654619" expanded="true" signature="1191:1438" ph="..." />
+            <marker date="1523578654619" expanded="true" signature="1558:1816" ph="..." />
+            <marker date="1523578654619" expanded="true" signature="1824:2450" ph="..." />
+            <marker date="1523578654619" expanded="true" signature="2458:2603" ph="..." />
+            <marker date="1523578654619" expanded="true" signature="2611:2756" ph="..." />
+            <marker date="1523578654619" expanded="true" signature="2764:2925" ph="..." />
+            <marker date="1523578654619" expanded="true" signature="2952:3187" ph="..." />
+            <marker date="1523578654619" expanded="true" signature="3263:5614" ph="..." />
+            <marker date="1523578654619" expanded="true" signature="3276:3344" ph="..." />
+            <marker date="1523578654619" expanded="true" signature="3357:3573" ph="..." />
+            <marker date="1523578654619" expanded="true" signature="3438:3559" ph="..." />
+            <marker date="1523578654619" expanded="true" signature="3586:3803" ph="..." />
+            <marker date="1523578654619" expanded="true" signature="3667:3789" ph="..." />
+            <marker date="1523578654619" expanded="true" signature="3816:3966" ph="..." />
+            <marker date="1523578654619" expanded="true" signature="3979:4130" ph="..." />
+            <marker date="1523578654619" expanded="true" signature="4143:4292" ph="..." />
+            <marker date="1523578654619" expanded="true" signature="4305:4455" ph="..." />
+            <marker date="1523578654619" expanded="true" signature="4468:4618" ph="..." />
+            <marker date="1523578654619" expanded="true" signature="4631:4804" ph="..." />
+            <marker date="1523578654619" expanded="true" signature="4817:4994" ph="..." />
+            <marker date="1523578654619" expanded="true" signature="5007:5160" ph="..." />
+            <marker date="1523578654619" expanded="true" signature="5173:5455" ph="..." />
+            <marker date="1523578654619" expanded="true" signature="5264:5441" ph="..." />
+            <marker date="1523578654619" expanded="true" signature="5468:5601" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/GameController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="31" column="28" lean-forward="false" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+          <folding>
+            <marker date="1523589225194" expanded="true" signature="732:790" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Game.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="115" column="28" lean-forward="true" selection-start-line="115" selection-start-column="28" selection-end-line="115" selection-end-column="28" />
+          <folding>
+            <element signature="e#7#89#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

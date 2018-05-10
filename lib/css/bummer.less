@@ -1,0 +1,100 @@
+html, body, header, footer, hgroup, nav, article, section,
+figure, figcaption, h1, h2, h3, ul, li, body, div, p, img,
+table, tr, th, td {
+  margin: 0;
+  padding: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  border: 0;
+}
+
+@import "colors.less";
+
+body {
+  font-family: "Arial", sans-serif;
+  background-color: @backoutside;
+  -webkit-background-origin: content-box;
+  background-origin: content-box;
+}
+
+body>div {
+  background-color: @background;
+  min-width: 40em;
+  max-width: 60em;
+  margin: 2em auto;
+  padding-bottom: 2em;
+  border-radius: @radius;
+}
+
+header {
+  background-color: @heading;
+  margin-bottom: 2em;
+
+  h1 {
+    text-align: center;
+    color: black;
+    font-style: italic;
+    font-size: 3em;
+  }
+}
+
+nav {
+  position: relative;
+  padding: .5em;
+  display: flex;
+  justify-content: space-between;
+
+  ul {
+    font-size: 1.2em;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+    li {
+      display: inline-block;
+      margin: 0;
+      padding: 0;
+    }
+
+    li a {
+      display: block;
+      padding: 0.5em;
+      text-decoration: none;
+      border-radius: @radius;
+    }
+
+    a:hover {
+      background-color: @block;
+    }
+
+    a:visited, a:link {
+      color: black;
+    }
+  }
+}
+
+table {
+  table-layout: fixed;
+  width: 100%;
+
+  td, th {
+    padding: .5em;
+    vertical-align: middle;
+  }
+
+  th {
+    font-size: 1.5em;
+    width: 50%
+  }
+
+  td {
+    font-size: 1.25em;
+  }
+}
+
+@import "game.less";
+@import "instructions.less";
+@import "forms.less";
+@import "home.less";
+@import "lobby.less";
+@import "game.less";

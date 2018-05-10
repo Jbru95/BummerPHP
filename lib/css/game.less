@@ -1,0 +1,100 @@
+@cell-size: 50px;
+
+div.game {
+  height: 67.5em;
+
+  form {
+    background-color: transparent;
+    border-radius: 0;
+    width: auto;
+    margin: auto;
+  }
+
+  div.game-board {
+    display: inline-block;
+    margin: 1em;
+    border: 20px solid #5c544f;
+    padding: 0;
+    box-sizing: border-box;
+    position: relative;
+
+    background-image: url(../../images/bummer.png);
+    background-size: 100% 100%;
+
+    div.row {
+      display: block;
+      padding: 0;
+      height: @cell-size;
+      white-space: nowrap;
+      box-sizing: border-box;
+    }
+
+    div.cell {
+      display: inline-block;
+      vertical-align: top;
+      padding: 0;
+      width: @cell-size;
+      height: @cell-size;
+      min-height: @cell-size;
+      min-width: @cell-size;
+      box-sizing: border-box;
+
+      input[type="submit"] {
+        border: 0;
+        padding: 0;
+        width: @cell-size;
+        height: @cell-size;
+        color: transparent;
+        background-color: transparent;
+        text-indent: -999px;
+        font-size: 0;
+        line-height: 0;
+        background-size: 100% 100%;
+
+        &.draw_card {
+          background-image: url(../../images/draw.png);
+        }
+
+        &.end_turn {
+          background-image: url(../../images/end_turn.png);
+        }
+
+        &.yellow {
+          background-image: url(../../images/minion-yellow.png);
+        }
+
+        &.red {
+          background-image: url(../../images/minion-red.png);
+        }
+
+        &.blue {
+          background-image: url(../../images/minion-blue.png);
+        }
+
+        &.green {
+          background-image: url(../../images/minion-green.png);
+        }
+      }
+    }
+  }
+
+  img.card {
+    position: relative;
+    top: -580px;
+    left: 320px;
+    height: 308px;
+    width: 200px;
+  }
+
+  p.player_display {
+    color: white;
+    position: relative;
+    top: -595px;
+    left: 340px;
+  }
+
+  p.result {
+    text-align: center;
+    alignment: center;
+  }
+}

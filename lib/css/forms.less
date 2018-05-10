@@ -1,0 +1,38 @@
+@import "colors.less";
+
+form {
+  width: 20em;
+  margin: auto;
+
+  background-color: @block;
+  border-radius: @radius;
+  padding: 1em;
+
+  fieldset {
+    border: none;
+    padding: 0;
+
+    input {
+      width: 100%;
+      padding: .5em 1em;
+      margin: .5em 0;
+      border: none;
+      box-sizing: border-box;
+    }
+
+    input[type=submit] {
+      background-color: @input;
+    }
+
+    input[type=submit]:hover, input[type=submit]:active {
+      background-color: @hover;
+    }
+  }
+
+  p.msg {
+    margin: .5em 0;
+    text-align: center;
+    color: red;
+    font-style: italic;
+  }
+}
